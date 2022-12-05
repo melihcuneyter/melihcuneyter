@@ -1,6 +1,5 @@
-### Hi 👋
-
-My name is Melih.
+### 
+Hi 👋 My name is Melih.
 ==============================
 
 I am a software engineer interested in mobile applications.
