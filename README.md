@@ -5,8 +5,8 @@ Hi 👋 My name is Melih.
 I am a software engineer interested in mobile applications.
 
 - 🌍 I'm based in Istanbul, Turkey
-- 🌱 I’m currently learning Swift, React-Native, NodeJS, Javascript, Java.
-- 📫 How to reach me: melihcuneyter@hotmail.com
+- 🌱 I’m currently learning Swift and SwiftUI
+- 📫 How to reach me: [With E-Mail](melihcuneyter@hotmail.com)
 
 ### Skills
 
