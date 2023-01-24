@@ -6,7 +6,8 @@ I am a software engineer interested in mobile applications.
 
 - 🌍 I'm based in Istanbul, Turkey
 - 🌱 I’m currently learning Swift and SwiftUI
-- 📫 How to reach me: [With E-Mail](melihcuneyter@hotmail.com)
+- 📫 How to reach me: <a href="mailto:melihcuneyter@hotmail.comm">with e-mail</a>  
+
 
 ### Skills
 
